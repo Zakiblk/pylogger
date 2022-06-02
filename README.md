@@ -7,6 +7,7 @@ this script registers keys pressed and mouse clicks and sends the resulting file
 the project was set to work with gmail too, but google eliminated the possiblity to use third party apps (or less secure apps) such as this python script on may, 30th 2022 (three days ago), that is why we changed it to a hotmail account. This should work with other mail providers too.
 ```bash
 sudo python2 pylogger.py
+cd lol
 ```
 # This script should run as sudo. (sudo python2 pylogger.py)
 
