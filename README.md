@@ -3,7 +3,8 @@
 | Matricule | Nom |
 | ------------- | ------------- |
 | 191931089458 | Belkadi   |
-| 191931083377  | Bouta  | <br />
+| 191931083377  | Bouta  |
+
 A simple python keylogger (mouse and keyboard)<br />
 you'll need to install the two packages (keyboard, mouse) with the following commands: <br />
 ```bash
