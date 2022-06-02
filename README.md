@@ -1,4 +1,4 @@
-# pylogger
+# pylogger:
 A simple python keylogger (mouse and keyboard)
 you'll need to install the two packages (keyboard, mouse) with the following commands:
 sudo pip2 install keyboard
